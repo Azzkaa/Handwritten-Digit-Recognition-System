@@ -8,3 +8,6 @@ This project focuses on developing a Handwritten Digit Recognition System using 
 https://colab.research.google.com/drive/1bZQTE_7Pv1UZ-nsXbyFGbIftzUGrnj4y?usp=sharing
 ## Outputs 
 
+![image](https://github.com/user-attachments/assets/2bbe4ed1-c123-48db-b32b-18ab8c9c84d6)
+![image](https://github.com/user-attachments/assets/8d711fdb-d406-4418-acd8-c68b9d863461)
+![image](https://github.com/user-attachments/assets/f3b36b1f-0fd4-4a6a-9828-e76f3b1204fd)
